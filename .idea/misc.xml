@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/drawable/ic_baseline_person_add.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/drawable/side_nav_bar.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_inicio.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_menu_navegacion.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_nuevo_producto.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_productos.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_registro.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_servicios.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/activity_sucursales.xml" value="0.30337078651685395" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/app_bar_menu_navegacion.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/content_menu_navegacion.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/fragment_sucursales.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/login.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/layout/nav_header_menu_navegacion.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/menu/activity_menu_navegacion_drawer.xml" value="0.67" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/menu/barra_tareas.xml" value="0.209375" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/menu/menu_navegacion.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/mipmap-anydpi-v26/ic_icon-playstore.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/mipmap-anydpi-v26/ic_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/mipmap-anydpi-v26/ic_icon_round.xml" value="0.1" />
+        <entry key="..\:/Users/Angie Moreno/AndroidStudioProjects/Bicipartes3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
